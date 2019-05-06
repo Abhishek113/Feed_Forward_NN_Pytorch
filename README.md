@@ -2,6 +2,8 @@
 
 This is the repository explaining create FFN using pytorch which I have created while learning.
 
+Refer the architectural image of NN which we are creating for visual understanding.
+
 In this repository I have explained following:
 
 1. Generating dataset using make_blobs function in scikit-learn and it's visualization.
